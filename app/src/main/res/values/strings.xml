@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="match_day">Match Day</string>
+    <string name="dash">:</string>
+    <string name="primer_league">Primer League</string>
+    <string name="match_details">Match Details</string>
+    <string name="referee">Referee</string>
+    <string name="statistics">Statistics</string>
+    <string name="Goals">Goals</string>
+    <string name="Shots">Total Shots</string>
+    <string name="ShotsOnGoal">Shots On Goal</string>
+    <string name="CornerKicks">Corner Kicks</string>
+    <string name="freeKicks">Free Kicks</string>
+    <string name="yellowCards">Yellow Cards</string>
+    <string name="redCards">Red Cards</string>
+    <string name="dot">:</string>
+</resources>
